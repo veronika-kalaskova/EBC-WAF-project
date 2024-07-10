@@ -1,44 +1,18 @@
-# default
-
-## Project setup
-
+# Installation
+1. Clone this repository and navigate to the directory:
 ```
-# yarn
-yarn
+git clone https://github.com/veronika-kalaskova/EBC-WAF-project.git
+```
 
-# npm
+2. Install dependencies:
+```
 npm install
-
-# pnpm
-pnpm install
 ```
 
-### Compiles and hot-reloads for development
-
+3. Start the server:
 ```
-# yarn
-yarn dev
-
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
 ```
 
-### Compiles and minifies for production
+This is a collaborative project.
 
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
