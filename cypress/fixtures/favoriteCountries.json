@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Finland",
+      "full_name": "Republic of Finland",
+      "capital": "Helsinki",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "covid19": {
+        "total_case": "100000",
+        "total_deaths": "1000",
+        "last_updated": "2024-01-01"
+      },
+      "current_president": {
+        "name": "Sauli Niinistö",
+        "gender": "Male",
+        "appointment_start_date": "2012-03-01",
+        "appointment_end_date": null,
+        "href": {
+          "self": "/president/sauli-niinisto",
+          "country": "/country/finland",
+          "picture": "/images/presidents/sauli-niinisto.jpg"
+        }
+      },
+      "currency": "EUR",
+      "phone_code": "+358",
+      "continent": "Europe",
+      "description": "Finland is a country in Northern Europe.",
+      "size": "338440",
+      "independence_date": "1917-12-06",
+      "population": "5540720",
+      "href": {
+        "self": "/country/finland",
+        "states": "/country/finland/states",
+        "presidents": "/country/finland/presidents",
+        "flag": "/images/flags/finland.png"
+      }
+    },
+    {
+      "name": "Norway",
+      "full_name": "Kingdom of Norway",
+      "capital": "Oslo",
+      "iso2": "NO",
+      "iso3": "NOR",
+      "covid19": {
+        "total_case": "200000",
+        "total_deaths": "2000",
+        "last_updated": "2024-01-01"
+      },
+      "current_president": null,
+      "currency": "NOK",
+      "phone_code": "+47",
+      "continent": "Europe",
+      "description": "Norway is a country in Northern Europe.",
+      "size": "385207",
+      "independence_date": "1905-06-07",
+      "population": "5367580",
+      "href": {
+        "self": "/country/norway",
+        "states": "/country/norway/states",
+        "presidents": "/country/norway/presidents",
+        "flag": "/images/flags/norway.png"
+      }
+    }
+  ]
+  

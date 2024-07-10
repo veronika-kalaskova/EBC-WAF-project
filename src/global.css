@@ -1,0 +1,36 @@
+/* global.css */
+
+.v-btn.custom-primary {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    min-height: 2.5rem;
+    box-shadow: none !important;
+    text-transform: none !important;
+    margin: 0 !important;
+}
+
+.v-toolbar__content {
+    height: auto !important;
+}
+
+
+
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 3rem;
+    width: 100%;
+}
+
+
+
+.cards-section {
+    gap: 1rem;
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 400px);
+    margin-bottom: 1rem;
+    justify-content: center;
+}
